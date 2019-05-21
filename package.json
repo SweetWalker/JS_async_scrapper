@@ -1,0 +1,19 @@
+{
+  "name": "js_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Js Scrapper",
+  "author": "SWalker",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "needle": "^2.0.1",
+    "nightmare": "^2.10.0",
+    "node-phantom": "^0.2.5",
+    "phantom": "^4.0.5",
+    "request": "^2.83.0",
+    "tress": "^1.0.5",
+    "vo": "^4.0.2",
+    "webpage": "^0.3.0"
+  }
+}
